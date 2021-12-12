@@ -1,4 +1,4 @@
-My Portfolio
+Phusion Models Portfolio
 =========================
 
 Powered by Jekyll
