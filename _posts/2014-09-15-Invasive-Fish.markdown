@@ -2,7 +2,7 @@
 layout: default
 modal-id: 0
 date: 2014-08-15
-img: angular-invasive-preview.png
+img: phusion-shantelw.png
 alt: Angular
 project-date: September 2014
 client: N/A
