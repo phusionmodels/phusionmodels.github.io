@@ -315,6 +315,7 @@ header .intro-text .intro-heading {
         font-size: 30px;
         font-style: italic;
         line-height: 40px;
+        color: red;
     }
 
     header .intro-text .intro-heading {
